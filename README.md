@@ -6,15 +6,31 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 #
 ### Languages
 
-![C#](https://img.shields.io/badge/-CSharp-A41EE8?&logo=)
-![JavaScript](https://img.shields.io/badge/-JavaScript-5E1EE8?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-211EE8?&logo=TypeScript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-1E46E8?&logo=MySQL&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-1E79E8?&logo=Python&logoColor=E8E11E)
+<a href="https://dotnet.microsoft.com/languages/csharp"><img alt="C#" title="C#" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/csharp.png" height="42"></a></code>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" title="JS" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/fab6b1541f0c1b111421e61b5f6214726096a931/icons/javascript-logo.svg" height="42"></a></code>
+<a href="https://www.typescriptlang.org/"><img alt="TS" title="TS" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/5968381.png" height="42"></a></code>
+<a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" title="SQL" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/2911616.png" height="42"></a>
+<a href="https://www.python.org/"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/Python.png" height="42"></a>
+<a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a>
 
-
-
+#
 ### Technologies
+
+<a href="https://dotnet.microsoft.com/languages/csharp"><img alt="C#" title="C#" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/csharp.png" height="42"></a></code>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" title="JS" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/fab6b1541f0c1b111421e61b5f6214726096a931/icons/javascript-logo.svg" height="42"></a></code>
+<a href="https://www.typescriptlang.org/"><img alt="TS" title="TS" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/5968381.png" height="42"></a></code>
+
+#
+### Tools
+
+<a href="https://dotnet.microsoft.com/languages/csharp"><img alt="C#" title="C#" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/csharp.png" height="42"></a></code>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" title="JS" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/fab6b1541f0c1b111421e61b5f6214726096a931/icons/javascript-logo.svg" height="42"></a></code>
+<a href="https://www.typescriptlang.org/"><img alt="TS" title="TS" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/5968381.png" height="42"></a></code>
+
+
+
+
 
 ![unity](https://img.shields.io/badge/-UnityEngine-000?&logo=Unity)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
