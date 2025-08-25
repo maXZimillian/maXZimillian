@@ -32,17 +32,4 @@
 <a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/Git_icon.svg.png" height="42"></a></code>
 
 #
-### Some projects
-
-
-
-
-<a href="mailto:ogeratum@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-My_Gmail-000?&logo=gmail" height="42"></a></code>
-![unity](https://img.shields.io/badge/-My_Gmail-000?&logo=gmail)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-
-
-
-
+### Some projects Are below
