@@ -32,7 +32,4 @@
 <a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/Git_icon.svg.png" height="42"></a></code>
 
 #
-### Some projects
-- <a href="mailto:ogeratum@gmail.com"><img alt="Socker Ball Runner" title="Socker Ball Runner" src="https://img.shields.io/badge/-Socker Ball Runner-000?&logo=circle&logoColor=f5f5f5" height="42"></a></code>
-
-  Mobile Hyper-Casual Runner game with soccer ball.
+### Some projects are below
