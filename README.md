@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### <img alt=" " src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/BongoCatHacker.gif" height="50"></a></code> About Me:
+### <img alt=" " src="https://raw.githubusercontent.com/maXZimillian/maXZimillian/refs/heads/main/icons/BongoCatHacker.gif" height="50" align="center"> About Me:</a></code>
 - I am a Unity Developer with 3 years of experience in developing projects for various platforms.
 - I have worked on over 20 projects, the majority of which were Hyper-Casual games. In my development process, I adhere to OOP principles and various design patterns to create clean code and maintain a well-structured project architecture.
 - You can contact me: <a href="mailto:ogeratum@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-My_Gmail-000?&logo=gmail" height="42"></a></code> <a href="https://t.me/shumanmax"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-My_Telegram-000?&logo=telegram" height="42"></a></code>
